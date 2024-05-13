@@ -22,6 +22,7 @@ _site
 ._*
 Thumbs.db
 .cache
+.vscode
 .project
 .settings
 .tmproj
